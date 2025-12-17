@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20251217_035711", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/request_001.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetCountryCode?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/response_001.txt", 
+      "timestamp": 1765951603436
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/request_002.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetDefaultSystemParams?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/response_002.txt", 
+      "timestamp": 1765951605209
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/request_003.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/SignIn", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/response_003.txt", 
+      "timestamp": 1765951605400
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/request_004.txt", 
+      "url": "https://sb2auth-altenar2.biahosted.com:443/api/WidgetAuth/GetSystemParams?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2auth-altenar2.biahosted.com_20251217_035711/response_004.txt", 
+      "timestamp": 1765951608002
+    }
+  ], 
+  "host": "sb2auth-altenar2.biahosted.com", 
+  "total_requests": 4
+}
