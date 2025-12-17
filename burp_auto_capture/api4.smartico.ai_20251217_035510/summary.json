@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251217_035510", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api4.smartico.ai_20251217_035510/request_001.txt", 
+      "url": "https://api4.smartico.ai:443/websocket/services?master&domain=esportiva.bet.br&version=1.3.324", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api4.smartico.ai_20251217_035510/response_001.txt", 
+      "timestamp": 1765951585207
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api4.smartico.ai_20251217_035510/request_002.txt", 
+      "url": "https://api4.smartico.ai:443/websocket/services?master&domain=esportiva.bet.br&version=1.3.324", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api4.smartico.ai_20251217_035510/response_002.txt", 
+      "timestamp": 1765951599370
+    }
+  ], 
+  "host": "api4.smartico.ai", 
+  "total_requests": 2
+}
